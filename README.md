@@ -1,2 +1,2 @@
-# Publication-fil-rouge
+# Publication-fil-rouge (Java-FX)
 !!!!!!!!!!!!!!!!!
